@@ -1,0 +1,100 @@
+{
+    "settings": {
+        "brand": "NeoGeo",
+        "headline": "Build Your Digital Future with Neo Geo",
+        "sub": "Tailored solutions to elevate your brand and accelerate your growth in the digital age.",
+        "whatsapp": "8801936602289",
+        "about_title": "Intuitive Digital Solutions",
+        "about_text": "Social Media Management: We manage Facebook, Instagram, and LinkedIn pages for small businesses and creators by scheduling posts, designing graphics, and writing engaging captions.\r\n\r\nBasic Graphic Design: We create social media banners, posters, flyers, logos, and YouTube thumbnails using tools like Canva or Photoshop.\r\n\r\nShort-Form Video Editing: We edit short, engaging videos for TikTok, Instagram Reels, or YouTube Shorts, including captioning and basic color grading.\r\n\r\nPlatform Account Setup: We set up professional profiles across various social media platforms and Behance.",
+        "address": "Rohanpur, Sapahar Road, Rajshahi, Bangladesh",
+        "email": "Thugtohid9840@gmail.com",
+        "phone": "+880 1936-602289",
+        "hours": "Sun to Thu, 7:00 am to 10:00 pm",
+        "map_embed": "https:\/\/www.google.com\/maps\/embed?pb=!1m17!1m12!1m3!1d3621.1667057140257!2d88.333512!3d24.823971999999998!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMjTCsDQ5JzI2LjMiTiA4OMKwMjAnMDAuNiJF!5e0!3m2!1sen!2sbd!4v1791025359341!5m2!1sen!2sbd",
+        "facebook": "https:\/\/www.facebook.com\/share\/19meVnfzMh\/",
+        "linkedin": "https:\/\/LinkedIn  https:\/\/www.linkedin.com\/in\/tohid-khan-990aa2211?utm_source=share_via&utm_content=profile&utm_medium=member_android",
+        "instagram": "https:\/\/Instagram  https:\/\/www.instagram.com\/tohidulislam0?stkn=aXQwdnlhcTFnejll",
+        "x": "",
+        "youtube": "",
+        "gmail": "Thugtohid9840@gmail.com"
+    },
+    "services": [
+        {
+            "id": "s1",
+            "title": "Business Consulting",
+            "desc": "Strategy, market entry and operations planning for growing companies.",
+            "tag": "Strategy",
+            "price": "From $400",
+            "active": true
+        },
+        {
+            "id": "s2",
+            "title": "Web & App Development",
+            "desc": "Custom websites, portals and mobile apps built for scale and speed.",
+            "tag": "Technology",
+            "price": "From $900",
+            "active": true
+        },
+        {
+            "id": "s3",
+            "title": "Digital Marketing",
+            "desc": "Performance campaigns, SEO and content that bring qualified buyers.",
+            "tag": "Growth",
+            "price": "From $300",
+            "active": true
+        },
+        {
+            "id": "s4",
+            "title": "Brand Identity",
+            "desc": "Logo, visual language and guidelines that make your brand look established.",
+            "tag": "Design",
+            "price": "From $500",
+            "active": true
+        },
+        {
+            "id": "s5",
+            "title": "Accounting & Compliance",
+            "desc": "Bookkeeping, tax filing and audit support handled by certified experts.",
+            "tag": "Finance",
+            "price": "From $250",
+            "active": true
+        },
+        {
+            "id": "s6",
+            "title": "IT Support & Cloud",
+            "desc": "Managed infrastructure, backups and 24\/7 technical support for your team.",
+            "tag": "Technology",
+            "price": "From $350",
+            "active": true
+        }
+    ],
+    "reviews": [
+        {
+            "id": "r6ac0edeb1a1f9",
+            "name": "Masum",
+            "company": "Electricity",
+            "rating": 2,
+            "text": "just ok",
+            "status": "approved",
+            "visible": true
+        },
+        {
+            "id": "r6ac0edbf29aa7",
+            "name": "Jahid",
+            "company": "NAVY",
+            "rating": 5,
+            "text": "MashAllah",
+            "status": "approved",
+            "visible": true
+        },
+        {
+            "id": "r6ac0ed578b89f",
+            "name": "Abdullah Al Sifat",
+            "company": "Delta Textiles",
+            "rating": 4,
+            "text": "Good ❤️",
+            "status": "approved",
+            "visible": true
+        }
+    ]
+}
